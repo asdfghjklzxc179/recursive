@@ -22,8 +22,8 @@ When you begin interviewing for jobs, you will often encounter problems that hav
 - [x ] Implement the binary search algorithm in [searching.py](src/searching/searching.py) in a recursive fashion.
 - [ ] Test your implementation by running `test_searching.py`.
 - [ x] Read through the descriptions of the `merge_sort` algorithm in [Training Kit](https://learn.lambdaschool.com/cs/module/reccRh9h6ccXghfA4/).
-- [ ] Implement `merge_sort` in [sorting.py](src/sorting/sorting.py)
-- [ ] Test your implementation by running `test_sorting.py`.
+- [ x] Implement `merge_sort` in [sorting.py](src/sorting/sorting.py)
+- [x ] Test your implementation by running `test_sorting.py`.
 
 ## Stretch goals
 
